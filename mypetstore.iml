@@ -22,5 +22,7 @@
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.13" level="application_server_libraries" />
     <orderEntry type="library" name="mysql-connector-java-5.1.7-bin" level="project" />
     <orderEntry type="library" name="stripes-1.7.0-beta4" level="project" />
+    <orderEntry type="library" name="jsp-api" level="project" />
+    <orderEntry type="library" name="servlet-api" level="project" />
   </component>
 </module>
