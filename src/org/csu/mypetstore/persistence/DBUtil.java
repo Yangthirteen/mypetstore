@@ -12,7 +12,7 @@ public class DBUtil {
     private static String driver = "com.mysql.jdbc.Driver";
     private static String url = "jdbc:mysql://127.0.0.1:3306/myjepetstore";
     private static String username = "root";
-    private static String password = "213218";
+    private static String password = "1785054901hong";
 
     public static Connection getConnection() throws Exception {
         try {
